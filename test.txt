@@ -1,11 +1,1 @@
-testing
 
-this is a new line
-
-this is the second line
-
-<<<<<<< HEAD
-this is a 3rd line
-=======
-this is the fourth line
->>>>>>> c3436b6f3e8df9e5c54e895c13bf8c2ecdb2fd29
