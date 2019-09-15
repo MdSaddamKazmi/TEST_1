@@ -11,8 +11,6 @@ tryudjsfkdsmfdms
 
 test try ?
 
-<<<<<<< HEAD
-yes /yes /yes
-=======
 yes/no
->>>>>>> a50f20ffd85e9d6d1aceab3f3cdec2a33f855e94
+yes /yes /yes
+yes/no
