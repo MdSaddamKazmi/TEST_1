@@ -3,8 +3,5 @@ no word
 second line
 first line
 
-<<<<<<< HEAD
 your line
-=======
 last line
->>>>>>> b7bb7820035c89fa8083c8ede8e2148cf7254d9d
