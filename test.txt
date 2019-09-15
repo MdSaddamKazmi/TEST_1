@@ -1,2 +1,7 @@
 test _ new
 hello
+
+
+try 
+tr1
+trycd
