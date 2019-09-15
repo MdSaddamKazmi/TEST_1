@@ -1,9 +1,1 @@
-test34
-test2
-<<<<<<< Updated upstream
 hello
-=======
-
-
-it's me
->>>>>>> Stashed changes
