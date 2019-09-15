@@ -1,14 +1,1 @@
-test1
-test2
-test3
-test4
-
-like1
-
-like2
-
-<<<<<<< HEAD
-like 4
-=======
-like 3
->>>>>>> 83743372e2262430e2fdb02d4ae844c3c04cccf9
+test34
